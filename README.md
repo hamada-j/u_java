@@ -1,2 +1,2 @@
 # u_java
-java coding...
+java coding
